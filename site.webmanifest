@@ -1,0 +1,12 @@
+{
+  "name": "Adonai Farm",
+  "short_name": "Adonai",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#244d35",
+  "icons": [
+    { "src": "images/logo-v2.jpeg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "images/logo-v2.jpeg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}

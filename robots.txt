@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-domain-here/sitemap.xml
+# When ready, replace the sitemap URL above with your live domain's sitemap location

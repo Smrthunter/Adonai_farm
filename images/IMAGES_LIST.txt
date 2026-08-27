@@ -1,0 +1,39 @@
+Current images in images/ (generated 2026-08-27T11:52:40+03:00):
+
+adonai-3-v2.jpeg
+adonai-3-v2-480.jpeg
+adonai-3-v2-800.jpeg
+adonai-4-v2.jpeg
+adonai-4-v2-480.jpeg
+adonai-4-v2-800.jpeg
+adonai-5-v2.jpg
+adonai-5-v2-480.jpg
+adonai-5-v2-800.jpg
+adonai-farm-2-v2.jpeg
+adonai-farm-2-v2-480.jpeg
+adonai-farm-2-v2-800.jpeg
+adonai-farm-v2.jpeg
+adonai-farm-v2-480.jpeg
+adonai-farm-v2-800.jpeg
+apple-touch-icon-180.png
+bulll-v2.jpeg
+bulll-v2-480.jpeg
+bulll-v2-800.jpeg
+dairy-v2.jpeg
+dairy-v2-480.jpeg
+dairy-v2-800.jpeg
+favicon.ico
+favicon-32x32.png
+logo-v2.jpeg
+logo-v2-480.jpeg
+logo-v2-800.jpeg
+owner-v2.jpeg
+owner-v2-480.jpeg
+owner-v2-800.jpeg
+
+Notes:
+- These are the files currently present in the images/ folder on disk.
+- If you still see deleted files in VS Code Explorer, click Refresh (⟳) in Explorer or run "Developer: Reload Window" from the Command Palette.
+- If you preview in a browser, do a hard refresh (Ctrl+Shift+R) or open an incognito window to avoid cached assets.
+
+If you want me to remove additional files (e.g., delete -800 variants or keep only base images), tell me which rule to apply and I'll delete them now.
